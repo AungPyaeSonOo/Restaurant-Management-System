@@ -4,9 +4,9 @@ A web-based restaurant management system using Spring Boot, Thymeleaf, JDBC, and
 
 
 
-## 📽️ Preview  
+## 📽️ Preview 
 
-[Watch Video](https://www.youtube.com/watch?v=rOY--e9FQ3E)
+- [Click To See Video](https://www.youtube.com/watch?v=rOY--e9FQ3E)
 
 
 
@@ -17,7 +17,7 @@ A web-based restaurant management system using Spring Boot, Thymeleaf, JDBC, and
 - ✅ Auto-Update Table Status - Orders update table availability
 - ✅ Complete Checkout - Orders disappear after checkout**
 
----
+
 
 ## 📝 Technologies Used
 
@@ -36,9 +36,7 @@ A web-based restaurant management system using Spring Boot, Thymeleaf, JDBC, and
 🚀 Installation
 # 1️⃣ Clone the Repository
 
-```sh
-Copy
-Edit
+```bash
 git clone https://github.com/yourusername/restaurant-management.git
 cd restaurant-management
 ```
@@ -80,8 +78,6 @@ Edit
  ┃ ┃ ┗ 📜 application.properties
  ┗ 📜 README.md
 ```
-
----
 
 ## 🛠️ Contributing
 
