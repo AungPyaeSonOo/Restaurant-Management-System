@@ -2,13 +2,13 @@
 
 A web-based restaurant management system using Spring Boot, Thymeleaf, JDBC, and PostgreSQL to handle table reservations, orders, and checkout.
 
----
+
 
 ## 📽️ Preview  
 
-[Watch Video](.mp4)
+[Watch Video](https://www.youtube.com/watch?v=rOY--e9FQ3E)
 
----
+
 
 ## 🛠️ Features
 
@@ -31,7 +31,7 @@ A web-based restaurant management system using Spring Boot, Thymeleaf, JDBC, and
 
 - **PostgreSQL (Database)**
 
----
+
 
 🚀 Installation
 # 1️⃣ Clone the Repository
@@ -51,21 +51,15 @@ cd restaurant-management
 
 # 3️⃣ Run the Project
 
-```sh
-Copy
-Edit
-mvn spring-boot:run
+```bash
+spring-boot app
 ```
 
 # 4️⃣ Open in Browser
 
-```sh
-Copy
-Edit
+```bash
 http://localhost:8080
 ```
-
----
 
 
 ## 📂 Project Structure
@@ -93,7 +87,6 @@ Edit
 
 Feel free to fork, modify, and contribute! 🚀
 
----
 
 ## 📬 Contact
 
