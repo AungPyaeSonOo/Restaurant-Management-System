@@ -11,10 +11,11 @@ A web-based restaurant management system using Spring Boot, Thymeleaf, JDBC, and
 ---
 
 ## 🛠️ Features
-✅ Table Management - View available and occupied tables
-✅ Order System - Place, update, and checkout orders
-✅ Auto-Update Table Status - Orders update table availability
-✅ Complete Checkout - Orders disappear after checkout
+
+- ✅ Table Management - View available and occupied tables**
+- ✅ Order System - Place, update, and checkout orders**
+- ✅ Auto-Update Table Status - Orders update table availability
+- ✅ Complete Checkout - Orders disappear after checkout**
 
 ---
 
